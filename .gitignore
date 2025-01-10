@@ -1,13 +1,15 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+/react_deploy1/node_modules
+/react_deploy2/node_modules
 
 # testing
 /coverage
 
 # production
-/build
+/react_deploy1/build
+/react_deploy2/build
 
 # misc
 .DS_Store
